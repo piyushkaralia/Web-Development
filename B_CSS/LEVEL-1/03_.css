@@ -1,0 +1,29 @@
+/* text-align : left / right / center */
+div{
+    text-align: left;
+    text-decoration: underline;
+}
+
+/* text-decoration : underline / overline/ line-through   */
+div{
+    text-decoration: underline;
+}
+
+/* font-weight : normal / bold / bolder / lighter */
+/* or */
+/* font-weight : 100-900 */
+div{
+    font-weight:bold;
+}
+
+/* font-family : arial, roboto */
+div{
+    font-family:arial;
+}
+/* text-tranform : uppercase / lowercase / capitalize / none */
+div{
+    text-transform: uppercase;
+    font-size:15px;
+}
+
+

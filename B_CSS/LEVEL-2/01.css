@@ -1,0 +1,15 @@
+div{
+    height:100px;
+    width:500px;
+}
+div{
+    border:2px solid pink;
+    border-radius : 10px;
+    text-align: center;
+    padding:20px 20px 20px 20px;
+    /* top | right | bottom | left -> clockwise */
+    
+    margin: 20px 20px 20px 20px;
+
+   
+}

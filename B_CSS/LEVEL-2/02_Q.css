@@ -1,0 +1,22 @@
+/* Q1
+#circle{
+    height:100px;
+    width:100px;
+    background-color: green;
+    border-radius: 50%;
+} */
+a{
+    color:white;
+    margin-right: 200px;
+ }
+#navbar{
+    background-color: #0f1111;
+    height:60px;
+}
+#amazon{
+    color:#f08804 ;
+    font-size: 25px;
+}
+button{
+    background-color:#f08804;
+}

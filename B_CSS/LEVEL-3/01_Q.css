@@ -1,0 +1,11 @@
+div{
+    height:300px;
+    width:300px;
+    background-image: url("cute-bengal-cat-looking-up.jpg");
+    background-size: cover;
+    position: fixed;
+    right:0%;
+    top:20px;
+    z-index: 1;
+
+}

@@ -1,0 +1,17 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 10px solid yellow;
+    border-top: 10px solid black;
+    border-radius: 50%;
+    animation:myanimation 2s ease-in-out infinite normal ;
+}
+@keyframes myanimation {
+    from {
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+    
+}

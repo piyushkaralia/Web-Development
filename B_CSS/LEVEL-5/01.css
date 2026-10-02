@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+div{
+    height:200px;
+    width:200px;
+    border: 2px solid black;
+    /* transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 1s; */
+    transition: all 2s ease-in 0s;
+}
+div:hover{
+    background-color: aqua;
+    transform: scale(1,2) translate(60px, 0px) skew(30deg); 
+}
+div:active{
+    background-color: pink;
+    transform: rotate(45deg) translate(60px, 0px);
+
+}

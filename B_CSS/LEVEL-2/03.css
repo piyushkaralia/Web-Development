@@ -1,0 +1,10 @@
+div{
+    height:100px;
+    width:100px;
+    padding:25px;
+    margin:25px;
+    /* Display Property
+    display: inline / block / inline-block / none */
+    display:inline-block;
+    /* visibility: hidden;->space is reserved unlike none */
+}

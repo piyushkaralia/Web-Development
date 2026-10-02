@@ -1,0 +1,27 @@
+a{
+    color:white;
+    margin-right: 200px;
+ }
+#navbar{
+    background-color: #0f1111;
+    height:60px;
+}
+#amazon{
+    color:#f08804 ;
+    font-size: 25px;
+}
+button{
+    background-color:#f08804;
+}
+#content{
+    height:750px;
+}
+#body{
+    height:100px;
+    width:100px;
+    border:2px solid black;
+    display:inline-block;
+}
+footer{
+    text-align: center;
+}
