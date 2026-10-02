@@ -55,7 +55,7 @@
 
 
 
-// //4
+// //4->filter the students with marks >90
 // let arr=[88,99,92,77,89];
 // let newArr = arr.filter((val)=>{
 //   return val>90;
@@ -63,7 +63,7 @@
 // console.log(newArr);
 
 
-//5
+//5->sum and product
 let input=prompt("Enter n");
 let arr=[];
 for(let i=1;i<=input;i++){
